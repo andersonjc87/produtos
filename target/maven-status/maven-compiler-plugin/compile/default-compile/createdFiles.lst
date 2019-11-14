@@ -1,0 +1,9 @@
+br/com/produtos/ProdutosApplication.class
+br/com/produtos/body/Produtos.class
+br/com/produtos/services/ProdutoService.class
+br/com/produtos/config/SwaggerConfig.class
+br/com/produtos/resources/ProdutoResource.class
+br/com/produtos/repositories/ProdutoRepository.class
+br/com/produtos/entities/ProdutoEntity.class
+br/com/produtos/exception/ProdutoNotFound.class
+br/com/produtos/StreamLambdaHandler.class
